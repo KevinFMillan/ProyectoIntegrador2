@@ -2,6 +2,10 @@
 
 ## Introducción
 
+El internet es una red global de computadoras interconectadas que facilita el intercambio de información en tiempo real. Desde su creación ha transformado significativamente nuestras vidas alterando la forma en que nos comunicamos, trabajamos y aprendemos.
+
+Una empresa argentina prestadora de servicios de telecomunicaciones me ha encargado la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional, su enfoque principal es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación. Esto tiene como objetivo orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
+
 ### Objetivos del Proyecto
 
 1. **Análisis de Tendencias y Patrones**: Estudiar las tendencias y patrones actuales en el sector de las telecomunicaciones en Argentina.
